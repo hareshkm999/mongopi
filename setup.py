@@ -5,7 +5,7 @@ setup(
     version="0.0.1",
     description="Mongo DB Operation",
     author="Harish Musti",
-    download_url="https://github.com/hareshkm999/mongopi/archive/refs/tags/0.0.1.tar.gz"
+    download_url="https://github.com/hareshkm999/mongopi/archive/refs/tags/0.0.1.tar.gz",
     packages=find_packages(),
     license="MIT"
 )
