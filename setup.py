@@ -7,5 +7,11 @@ setup(
     author="Harish Musti",
     download_url="https://github.com/hareshkm999/mongopi/archive/refs/tags/0.0.1.tar.gz",
     packages=find_packages(),
+    install_requires=[
+          'pymongo',
+          'dnspython',
+          'PyYAML',
+          'pandas'],
     license="MIT"
+
 )
